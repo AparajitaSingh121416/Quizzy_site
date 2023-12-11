@@ -1,0 +1,19 @@
+.loginsection{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.centerdiv{
+    margin-top: 20px;
+    height: 550px;
+    width: 500px;
+    background-color: rgb(240, 230, 230);
+    border-radius: 8px;
+    box-shadow: 0 0 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
